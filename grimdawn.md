@@ -7,3 +7,7 @@
 ## 祭司
 
 [技能](https://www.grimtools.com/calc/p25kBvoZ)
+
+## 净化者
+
+[技能](https://www.grimtools.com/calc/4Vxp0EbV)

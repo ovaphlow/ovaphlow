@@ -1,5 +1,10 @@
 # 恐怖黎明
 
+## 德鲁伊
+
+剑副-电
+[技能](https://www.grimtools.com/calc/m23B199N)
+
 ## 战争领主
 
 剑盾-反击

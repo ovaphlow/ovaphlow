@@ -7,9 +7,9 @@
 
 ## 战争领主
 
-剑盾-反击
+剑盾-物理反击
 
-[技能](https://www.grimtools.com/calc/8NKqYjpV)
+[技能](https://www.grimtools.com/calc/nZoJKeEV)
 
 双手-立场波
 

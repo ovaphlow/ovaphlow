@@ -24,3 +24,8 @@
 双手远程-爆裂打击
 
 [技能](https://www.grimtools.com/calc/4Vxp0EbV)
+
+## 秘术师
+
+剑副-活力（with 湮灭）
+[技能](https://www.grimtools.com/calc/62a8Y3EN)

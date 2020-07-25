@@ -23,7 +23,7 @@
 
 双手远程-爆裂打击
 
-[技能](https://www.grimtools.com/calc/4Vxp0EbV)
+[技能](https://www.grimtools.com/calc/nZoJjOzV)
 
 ## 秘术师
 

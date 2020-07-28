@@ -25,7 +25,15 @@
 
 [技能](https://www.grimtools.com/calc/nZoJjOzV)
 
+双持远程-火焰打击
+
+[技能](https://www.grimtools.com/calc/lNk5bBRV)
+
 ## 秘术师
 
 剑副-活力（with 湮灭）
 [技能](https://www.grimtools.com/calc/62a8Y3EN)
+
+远程副手-活力
+[技能](https://www.grimtools.com/calc/L2J3wL7V)
+

@@ -9,7 +9,7 @@
 
 剑盾-火物反击
 
-[技能](https://www.grimtools.com/calc/lNk5beQV)
+[技能](https://www.grimtools.com/calc/d2j5WAjN)
 
 剑盾-物理反击
 

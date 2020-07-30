@@ -9,7 +9,7 @@
 剑副-电
 [技能](https://www.grimtools.com/calc/m23B199N)
 
-## 战争领主 Warload
+## 战争领主 Warlord
 
 剑盾-火物反击
 

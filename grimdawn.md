@@ -1,11 +1,15 @@
 # 恐怖黎明
 
+## 维护者 Vindicator
+
+[技能](https://www.grimtools.com/calc/YVWBRed2)
+
 ## 德鲁伊
 
 剑副-电
 [技能](https://www.grimtools.com/calc/m23B199N)
 
-## 战争领主
+## 战争领主 Warload
 
 剑盾-火物反击
 

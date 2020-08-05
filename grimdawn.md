@@ -2,7 +2,7 @@
 
 ## 维护者 Vindicator
 
-[技能](https://www.grimtools.com/calc/YVWBRed2)
+双手远程 [技能](https://www.grimtools.com/calc/xZymw3qZ)
 
 ## 德鲁伊
 

@@ -1,5 +1,7 @@
 # 恐怖黎明
 
+## 巫师猎人 
+
 ## 维护者 Vindicator
 
 双手远程 [技能](https://www.grimtools.com/calc/nZoJeRdV)

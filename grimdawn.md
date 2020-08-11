@@ -1,5 +1,9 @@
 # 恐怖黎明
 
+# 死亡骑士 Death Knight
+
+双手冰活 [技能](https://www.grimtools.com/calc/lV7b9Jv2)
+
 ## 巫师猎人 
 
 ## 维护者 Vindicator

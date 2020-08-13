@@ -13,6 +13,7 @@
 ## 德鲁伊
 
 剑副-电 [技能](https://www.grimtools.com/calc/m23B199N)
+双手电 [技能](https://www.grimtools.com/calc/lNkwgqdN)
 
 ## 战争领主 Warlord
 

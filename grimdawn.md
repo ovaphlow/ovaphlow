@@ -18,7 +18,7 @@
 
 ## 战争领主 Warlord
 
-剑盾-火物反击 [技能](https://www.grimtools.com/calc/m23bPLqN)
+剑盾-火物反击 [技能](https://www.grimtools.com/calc/4VxwYpM2)
 
 剑盾-物理反击 [技能](https://www.grimtools.com/calc/nZoJKeEV)
 

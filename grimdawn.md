@@ -26,7 +26,7 @@
 
 ## 祭司
 
-[技能](https://www.grimtools.com/calc/p25kBvoZ)
+召唤 [技能](https://www.grimtools.com/calc/b28bQ3pZ)
 
 ## 净化者
 

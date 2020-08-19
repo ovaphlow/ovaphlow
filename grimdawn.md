@@ -2,7 +2,9 @@
 
 ## 死亡骑士 Death Knight
 
-双手冰活 [技能](https://www.grimtools.com/calc/lV7b9Jv2)
+双手冰活 [技能](https://www.grimtools.com/calc/0V0vQw1N)
+
+剑盾 虚化 [技能](https://www.grimtools.com/calc/bVAbY8RZ)
 
 ## 巫师猎人 
 

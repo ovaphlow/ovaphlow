@@ -1,6 +1,6 @@
 # 恐怖黎明
 
-## Conjurer
+## 咒术师 Conjurer
 
 召唤 [技能](https://www.grimtools.com/calc/pZrwDK1N)
 

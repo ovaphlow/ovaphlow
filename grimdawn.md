@@ -1,5 +1,9 @@
 # 恐怖黎明
 
+## Conjurer
+
+召唤 [技能](https://www.grimtools.com/calc/pZrwDK1N)
+
 ## 死亡骑士 Death Knight
 
 双手冰活 [技能](https://www.grimtools.com/calc/0V0vQw1N)

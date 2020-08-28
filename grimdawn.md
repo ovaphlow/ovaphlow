@@ -1,5 +1,9 @@
 # 恐怖黎明
 
+## 巫师之刃 Witchblade
+
+剑盾-反击 [技能](https://www.grimtools.com/calc/YVWnzJn2)
+
 ## 咒术师 Conjurer
 
 召唤 [技能](https://www.grimtools.com/calc/pZrwDK1N)

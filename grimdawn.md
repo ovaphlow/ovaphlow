@@ -18,7 +18,7 @@
 
 ## 德鲁伊
 
-双手电 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwgqdN)
+双手电 [GRIM TOOLS](https://www.grimtools.com/calc/b28b9jKZ)
 
 ## 战争领主 Warlord
 

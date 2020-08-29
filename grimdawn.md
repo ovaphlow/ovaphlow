@@ -24,6 +24,9 @@
 
 剑盾-反击 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwOgRN)
 
+双手武器，节奏打击 [来源](https://forums.crateentertainment.com/t/1-1-7-1-2h-melee-gutsmasher-physical-warlord-sr-75-mogdrogen-kill/100385)
+[GRIM TOOLS](https://www.grimtools.com/calc/JVl5qqoZ)
+
 ## 祭司
 
 召唤 [GRIM TOOLS](https://www.grimtools.com/calc/b28bQ3pZ)

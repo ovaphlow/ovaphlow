@@ -10,7 +10,7 @@
 
 ## 咒术师 Conjurer
 
-召唤 [GRIM TOOLS](https://www.grimtools.com/calc/pZrwDK1N)
+召唤 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwJzBN)
 
 ## 维护者 Vindicator
 

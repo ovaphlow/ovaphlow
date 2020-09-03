@@ -1,6 +1,6 @@
 # 恐怖黎明
 
-# 秘术师 Cabalist
+## 秘术师 Cabalist
 
 召唤 [来源](https://forums.crateentertainment.com/t/the-carnival-a-guide-to-pets/81781) [GRIM TOOLS](https://www.grimtools.com/calc/O2G0Y9qV)
 

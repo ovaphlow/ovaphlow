@@ -1,5 +1,9 @@
 # 恐怖黎明
 
+# 秘术师 Cabalist
+
+召唤 [来源](https://forums.crateentertainment.com/t/the-carnival-a-guide-to-pets/81781) [GRIM TOOLS](https://www.grimtools.com/calc/O2G0Y9qV)
+
 ## 巫师之刃 Witchblade
 
 [剑盾-反击](https://forums.crateentertainment.com/t/1-1-7-2-sentinel-of-the-three-witchblade-cr-4-40-5-50ex-naked-100sr-with-fevered-rage-2-5kda-celestials-ravager-33-sec-crate-1-min-facetank-callagadra-44-seconds/97454) [GRIM TOOLS](https://www.grimtools.com/calc/YVWnzJn2)

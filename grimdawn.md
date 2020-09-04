@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 突击者 Commando
+
+双手武器 立场波/鸡尾酒/迫击高射炮 
+[来源](https://forums.crateentertainment.com/t/1-1-4-1-1-1-7-2-2h-melee-world-on-fire-fire-fw-commando-c-sr/87365) 
+[GRIM TOOLS】(https://www.grimtools.com/calc/8NKgq88N)
+
 ## 秘术师 Cabalist
 
 召唤 [来源](https://forums.crateentertainment.com/t/the-carnival-a-guide-to-pets/81781) [GRIM TOOLS](https://www.grimtools.com/calc/O2G0Y9qV)

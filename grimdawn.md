@@ -33,7 +33,7 @@
 
 ## 祭司
 
-召唤 [GRIM TOOLS](https://www.grimtools.com/calc/b28bQ3pZ)
+召唤 [GRIM TOOLS](https://www.grimtools.com/calc/62aA8RD2)
 
 ## 净化者
 

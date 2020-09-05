@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 术士 Warlock
+
+混乱伤害 虚化射线/末日闪电
+[来源](https://forums.crateentertainment.com/t/1-1-7-2-guide-the-rookie-bloodsworn-a-chaos-warlock-beginner-guide/103489)
+[GRIM TOOLS](https://www.grimtools.com/calc/mN4JE0QV)
+
 ## 突击者 Commando
 
 双手武器 立场波/鸡尾酒/迫击高射炮 

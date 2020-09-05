@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 狂舞者 Dervish
+
+双持 正义狂热/爆裂之刃
+[来源](https://forums.crateentertainment.com/t/dw-melee-beginners-virulent-dervish/51168)
+[GRIM TOOLS](https://www.grimtools.com/calc/0V074192)
+
 ## 术士 Warlock
 
 混乱伤害 虚化射线/末日闪电

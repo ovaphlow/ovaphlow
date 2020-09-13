@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 破盾者 Shieldbreaker
+
+双手 火焰 火焰打击
+[来源](https://forums.crateentertainment.com/t/1-1-7-1-not-so-pure-fire-2h-brimstone-shieldbreaker-sr-65-66-farmer/101413)
+[GRIM TOOLS](https://www.grimtools.com/calc/4NOqOGXV)
+
 ## 执政官 Archon
 
 剑盾 闪电 原始打击/曼海尔神盾
@@ -32,33 +38,17 @@
 
 [剑盾-反击](https://forums.crateentertainment.com/t/1-1-7-2-sentinel-of-the-three-witchblade-cr-4-40-5-50ex-naked-100sr-with-fevered-rage-2-5kda-celestials-ravager-33-sec-crate-1-min-facetank-callagadra-44-seconds/97454) [GRIM TOOLS](https://www.grimtools.com/calc/YVWnzJn2)
 
-## 守卫者 Warder
-
-双手武器 原始打击 [来源](https://forums.crateentertainment.com/t/1-1-7-2-sentinel-of-the-three-witchblade-cr-4-40-5-50ex-naked-100sr-with-fevered-rage-2-5kda-celestials-ravager-33-sec-crate-1-min-facetank-callagadra-44-seconds/97454) [GRIM TOOLS](https://www.grimtools.com/calc/4VxwlWr2)
-
 ## 咒术师 Conjurer
 
 召唤 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwJzBN)
 
-## 维护者 Vindicator
-
-双手远程 [GRIM TOOLS](https://www.grimtools.com/calc/nZoJeRdV)
-
 ## 德鲁伊
 
-双手电 [GRIM TOOLS](https://www.grimtools.com/calc/b28b9jKZ)
+雷电
+[来源](https://forums.crateentertainment.com/t/a-personification-of-storm-1-1-2-0-1-1-7-2-the-rise-of-druid-everything/50400)
+[GRIM TOOLS](https://www.grimtools.com/calc/lNk5MbvV)
 
 ## 战争领主 Warlord
 
-剑盾-反击 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwOgRN)
-
-双手武器，节奏打击 [来源](https://forums.crateentertainment.com/t/1-1-7-1-2h-melee-gutsmasher-physical-warlord-sr-75-mogdrogen-kill/100385)
+双手武器 物理 节奏打击 [来源](https://forums.crateentertainment.com/t/1-1-7-1-2h-melee-gutsmasher-physical-warlord-sr-75-mogdrogen-kill/100385)
 [GRIM TOOLS](https://www.grimtools.com/calc/JVl5qqoZ)
-
-## 祭司
-
-召唤 [GRIM TOOLS](https://www.grimtools.com/calc/RVvw5zmZ)
-
-## 净化者
-
-双手远程-爆裂打击 [GRIM TOOLS](https://www.grimtools.com/calc/nZoJjOzV)

@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 执政官 Archon
+
+剑盾 闪电 原始打击/曼海尔神盾
+[来源](https://forums.crateentertainment.com/t/1-1-7-2-storm-knight-primal-strike-with-a-shield-archon-sr-65/98758)
+[GRIM TOOLS](https://www.grimtools.com/calc/aZqPq9dV)
+
 ## 狂舞者 Dervish
 
 双持 正义狂热/爆裂之刃

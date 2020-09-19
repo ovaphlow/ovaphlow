@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 维护者 Vindicator
+
+双手 远程 原始打击 雷电
+[来源](https://forums.crateentertainment.com/t/ranged-lightning-crit-striker-thunderous-strike-rifle-vindicator/44163)
+[GRIM TOOLS](https://www.grimtools.com/calc/RZRRLgrZ)
+
 ## 破盾者 Shieldbreaker
 
 双手 火焰 火焰打击

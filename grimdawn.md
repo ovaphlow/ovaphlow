@@ -13,7 +13,7 @@
 [GRIM TOOLS](https://www.grimtools.com/calc/4NOqOGXV)
 
 双手 火焰 清算之眼
-[GRIM TOOLS](https://www.grimtools.com/calc/bVAb1roZ)
+[GRIM TOOLS](https://www.grimtools.com/calc/Q2zL0qjZ)
 
 ## 执政官 Archon
 

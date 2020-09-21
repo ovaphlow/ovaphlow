@@ -12,6 +12,9 @@
 [来源](https://forums.crateentertainment.com/t/1-1-7-1-not-so-pure-fire-2h-brimstone-shieldbreaker-sr-65-66-farmer/101413)
 [GRIM TOOLS](https://www.grimtools.com/calc/4NOqOGXV)
 
+双手 火焰 清算之眼
+[GRIM TOOLS](https://www.grimtools.com/calc/bVAb1roZ)
+
 ## 执政官 Archon
 
 剑盾 闪电 原始打击/曼海尔神盾

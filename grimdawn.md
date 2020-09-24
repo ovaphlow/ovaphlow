@@ -1,5 +1,12 @@
 # 恐怖黎明
 
+## 哨兵 Sentinel
+
+剑盾 毒酸 反击 曼海尔之盾
+1. [GRIM TOOLS](https://www.grimtools.com/calc/0V0RGg1N)
+1. [来源](https://forums.crateentertainment.com/t/1-1-7-1-caustic-rebuke-5-20m-crucible-gladiator-sr-90-45-seconds-ravager-retaliation-caster-sentinel-sr-c-vid/101269)
+[GRIM TOOLS](https://www.grimtools.com/calc/L2J3bg0V)
+
 ## 维护者 Vindicator
 
 双手 远程 原始打击 雷电

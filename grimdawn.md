@@ -7,6 +7,10 @@
 1. [来源](https://forums.crateentertainment.com/t/1-1-7-1-caustic-rebuke-5-20m-crucible-gladiator-sr-90-45-seconds-ravager-retaliation-caster-sentinel-sr-c-vid/101269)
 [GRIM TOOLS](https://www.grimtools.com/calc/L2J3bg0V)
 
+副手 毒酸 德里格邪眼
+[来源](https://forums.crateentertainment.com/t/1-1-5-2-cult-of-dreeg-dee-spamming-sentinel/93975)
+[GRIM TOOLS](https://www.grimtools.com/calc/vNQDPQMZ)
+
 ## 维护者 Vindicator
 
 双手 远程 原始打击 雷电

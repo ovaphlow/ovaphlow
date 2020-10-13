@@ -19,6 +19,10 @@
 
 ## 破盾者 Shieldbreaker
 
+双手 远程 手榴弹
+[来源](https://forums.crateentertainment.com/t/1-1-6-2-hc-bomberman-returns-fire-grenado-shieldbreaker-vids/86631)
+[GRIM TOOLS](https://www.grimtools.com/calc/mN4L36xN)
+
 双手 火焰 火焰打击
 [来源](https://forums.crateentertainment.com/t/1-1-7-1-not-so-pure-fire-2h-brimstone-shieldbreaker-sr-65-66-farmer/101413)
 [GRIM TOOLS](https://www.grimtools.com/calc/4NOqOGXV)
@@ -55,6 +59,10 @@
 召唤 [来源](https://forums.crateentertainment.com/t/the-carnival-a-guide-to-pets/81781) [GRIM TOOLS](https://www.grimtools.com/calc/O2G0Y9qV)
 
 ## 巫师之刃 Witchblade
+
+双手 物理
+[来源](https://forums.crateentertainment.com/t/1-1-7-1-beginners-physical-two-hand-melee-blade-arc-witchblade-suitable-for-first-character/101219)
+[GRIM TOOLS](https://www.grimtools.com/calc/m23BKL7N)
 
 [剑盾-反击](https://forums.crateentertainment.com/t/1-1-7-2-sentinel-of-the-three-witchblade-cr-4-40-5-50ex-naked-100sr-with-fevered-rage-2-5kda-celestials-ravager-33-sec-crate-1-min-facetank-callagadra-44-seconds/97454) [GRIM TOOLS](https://www.grimtools.com/calc/YVWnzJn2)
 

@@ -68,7 +68,9 @@
 
 ## 咒术师 Conjurer
 
-召唤 [GRIM TOOLS](https://www.grimtools.com/calc/lNkwJzBN)
+召唤 元素
+[来源](https://forums.crateentertainment.com/t/the-fluffy-squishy-pet-conjurer/48750)
+[GRIM TOOLS](https://www.grimtools.com/calc/L2JkWJ4V)
 
 ## 德鲁伊
 

@@ -74,6 +74,10 @@
 
 ## 咒术师 Conjurer
 
+活力
+[来源](https://forums.crateentertainment.com/t/1-1-6-2-beginners-vitality-caster-conjurer-guide-how-to-build-monster-build-from-the-scratch-suitable-for-first-character/99959)
+[GRIM TOOLS](https://www.grimtools.com/calc/0V0LE5RV)
+
 召唤 元素
 [来源](https://forums.crateentertainment.com/t/the-fluffy-squishy-pet-conjurer/48750)
 [GRIM TOOLS](https://www.grimtools.com/calc/L2JkWJ4V)

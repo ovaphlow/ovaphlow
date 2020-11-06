@@ -54,6 +54,8 @@ HARDCORE 召唤
 
 ## 巫师之刃 Witchblade
 
+双持 混乱 [GRIM TOOLS](https://www.grimtools.com/calc/bVAmb4wV)
+
 双手 物理
 [来源](https://forums.crateentertainment.com/t/1-1-7-1-beginners-physical-two-hand-melee-blade-arc-witchblade-suitable-for-first-character/101219)
 [GRIM TOOLS](https://www.grimtools.com/calc/m23BKL7N)

@@ -40,7 +40,7 @@ HARDCORE 剑盾 毒酸 反击
 
 混乱伤害 虚化射线/末日闪电
 [来源](https://forums.crateentertainment.com/t/1-1-7-2-guide-the-rookie-bloodsworn-a-chaos-warlock-beginner-guide/103489)
-[GRIM TOOLS](https://www.grimtools.com/calc/mN4JE0QV)
+[GRIM TOOLS](https://www.grimtools.com/calc/eVL1DvwZ)
 
 ## 秘术师 Cabalist
 

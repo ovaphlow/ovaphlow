@@ -12,7 +12,7 @@ HARDCORE 剑盾 毒酸 反击
 [SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
 [GRIM TOOLS](https://www.grimtools.com/calc/qNY55arN)
 
-HARDCORE 剑盾 度酸 反击
+HARDCORE 剑盾 毒酸 反击
 [GRIM TOOLS](https://www.grimtools.com/calc/lV7mkewN)
 
 剑盾 毒酸 反击 曼海尔之盾

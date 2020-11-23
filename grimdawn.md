@@ -12,6 +12,9 @@ HARDCORE 剑盾 毒酸 反击
 [SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
 [GRIM TOOLS](https://www.grimtools.com/calc/qNY55arN)
 
+HARDCORE 剑盾 度酸 反击
+[GRIM TOOLS](https://www.grimtools.com/calc/lV7mkewN)
+
 剑盾 毒酸 反击 曼海尔之盾
 1. [GRIM TOOLS](https://www.grimtools.com/calc/0V0RGg1N)
 1. [来源](https://forums.crateentertainment.com/t/1-1-7-1-caustic-rebuke-5-20m-crucible-gladiator-sr-90-45-seconds-ravager-retaliation-caster-sentinel-sr-c-vid/101269)

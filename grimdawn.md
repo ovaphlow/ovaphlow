@@ -69,6 +69,9 @@ HARDCORE 召唤
 
 ## 咒术师 Conjurer
 
+双手 活力 原始打击
+[GRIM TOOLS](https://www.grimtools.com/calc/d2jDaPqZ)
+
 HARDCORE 活力
 [SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
 [剑盾 GRIM TOOLS](https://www.grimtools.com/calc/JVl5kK7Z)

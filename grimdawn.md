@@ -52,8 +52,8 @@ HARDCORE 召唤
 [GRIM TOOLS](https://www.grimtools.com/calc/eZPqmlKN)
 
 召唤
-[来源](https://forums.crateentertainment.com/t/scarecrow-pet-cabalist/85002)
-[GRIM TOOLS](https://www.grimtools.com/calc/YVWgA15V)
+[来源](https://forums.crateentertainment.com/t/will-o-wisp-pet-cabalist/49892)
+[GRIM TOOLS](https://www.grimtools.com/calc/vNQYxAnN)
 
 ## 巫师之刃 Witchblade
 

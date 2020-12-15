@@ -1,10 +1,10 @@
 # 恐怖黎明
 
-## 死亡骑士 Deathknight
+## 德鲁伊 Druid
 
-HARDCORE 双手 物理 节奏打击
-[SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
-[GRIM TOOLS](https://www.grimtools.com/calc/lNkmyPQV)
+闪电
+[SOURCE](https://forums.crateentertainment.com/t/a-personification-of-storm-1-1-2-0-1-1-8-1-the-rise-of-druid-everything/50400)
+[GRIM TOOLS](https://www.grimtools.com/calc/lNk5MbvV)
 
 ## 哨兵 Sentinel
 
@@ -19,12 +19,6 @@ HARDCORE 剑盾 毒酸 反击
 1. [GRIM TOOLS](https://www.grimtools.com/calc/0V0RGg1N)
 1. [来源](https://forums.crateentertainment.com/t/1-1-7-1-caustic-rebuke-5-20m-crucible-gladiator-sr-90-45-seconds-ravager-retaliation-caster-sentinel-sr-c-vid/101269)
 [GRIM TOOLS](https://www.grimtools.com/calc/L2J3bg0V)
-
-## 维护者 Vindicator
-
-双手 远程 原始打击 雷电
-[来源](https://forums.crateentertainment.com/t/ranged-lightning-crit-striker-thunderous-strike-rifle-vindicator/44163)
-[GRIM TOOLS](https://www.grimtools.com/calc/RZRRLgrZ)
 
 ## 破盾者 Shieldbreaker
 

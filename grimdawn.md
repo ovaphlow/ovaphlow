@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 狂舞者
+
+双持 毒酸 正义狂热
+[SOURCE](https://forums.crateentertainment.com/t/1-1-8-1-edgyswingsetacid-dw-righteous-fervor-dervish-sr-90-4-50-crucible-avatar-ravager/99684)
+[GRIM TOOLS](https://www.grimtools.com/calc/RZR1y8PV)
+
 ## 德鲁伊 Druid
 
 闪电

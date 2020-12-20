@@ -38,12 +38,9 @@ HARDCORE 剑盾 毒酸 反击
 [来源](https://forums.crateentertainment.com/t/1-1-6-2-hc-bomberman-returns-fire-grenado-shieldbreaker-vids/86631)
 [GRIM TOOLS](https://www.grimtools.com/calc/mN4L36xN)
 
-双手 火焰 火焰打击
-[来源](https://forums.crateentertainment.com/t/1-1-7-1-not-so-pure-fire-2h-brimstone-shieldbreaker-sr-65-66-farmer/101413)
-[GRIM TOOLS](https://www.grimtools.com/calc/4NOqOGXV)
-
-双手 火焰 清算之眼
-[GRIM TOOLS](https://www.grimtools.com/calc/Q2zL0qjZ)
+副手 罐式炸弹
+[SOURCE](https://forums.crateentertainment.com/t/burn-baby-burn-1-1-6-2-1-1-8-1-shieldbreaker-the-fire-slayer-everything/98581)
+[GRIM TOOLS](https://www.grimtools.com/calc/m23mv1jZ)
 
 ## 术士 Warlock
 

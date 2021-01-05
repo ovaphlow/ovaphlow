@@ -58,6 +58,10 @@ HARDCORE 召唤
 [来源](https://forums.crateentertainment.com/t/will-o-wisp-pet-cabalist/49892)
 [GRIM TOOLS](https://www.grimtools.com/calc/vNQYxAnN)
 
+召唤 地域猎犬 骷髅
+[SOURCE](https://forums.crateentertainment.com/t/skulls-bones-pet-cabalist/82029)
+[GRIM TOOLS](https://www.grimtools.com/calc/RZR1GLPV)
+
 ## 巫师之刃 Witchblade
 
 双持 混乱 [GRIM TOOLS](https://www.grimtools.com/calc/bVAmb4wV)

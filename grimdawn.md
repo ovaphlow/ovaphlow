@@ -1,5 +1,11 @@
 # 恐怖黎明
 
+## 死亡骑士 Death Knight
+
+剑盾 物理 节奏打击
+[SOURCE](https://forums.crateentertainment.com/t/shield-melee-beginners-pre-krieg-death-knight/46094)
+[GRIM TOOLS](https://www.grimtools.com/calc/gZw6l8nV)
+
 ## 缚法者 Spellbinder
 
 虚化 虚化射线

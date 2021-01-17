@@ -1,10 +1,10 @@
 # 恐怖黎明
 
-## 死亡骑士 Death Knight
+## 帕拉丁 Paladin
 
-剑盾 物理 节奏打击
-[SOURCE](https://forums.crateentertainment.com/t/shield-melee-beginners-pre-krieg-death-knight/46094)
-[GRIM TOOLS](https://www.grimtools.com/calc/gZw6l8nV)
+剑盾 元素 曼海尔神盾 维尔之力
+[SOURCE](https://forums.crateentertainment.com/t/1-1-8-0-censor-skating-and-throwing-paladin-with-a-bit-of-aura-damage-sr-80/100398)
+[GRIM TOOLS](https://www.grimtools.com/calc/gZwEqDk2)
 
 ## 缚法者 Spellbinder
 
@@ -23,6 +23,10 @@
 闪电
 [SOURCE](https://forums.crateentertainment.com/t/a-personification-of-storm-1-1-2-0-1-1-8-1-the-rise-of-druid-everything/50400)
 [GRIM TOOLS](https://www.grimtools.com/calc/lNk5MbvV)
+
+双手远程 闪电 野性打击
+[SOURCE](https://forums.crateentertainment.com/t/1-1-8-1-the-upheaval-of-balance-lightning-savagery-druid-cr-170-3-53-sr-90/106015)
+[GRIM TOOLS](https://www.grimtools.com/calc/q2MGMK0Z)
 
 ## 哨兵 Sentinel
 

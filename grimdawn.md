@@ -6,6 +6,9 @@
 [SOURCE](https://forums.crateentertainment.com/t/1-1-8-0-censor-skating-and-throwing-paladin-with-a-bit-of-aura-damage-sr-80/100398)
 [GRIM TOOLS](https://www.grimtools.com/calc/gZwEqDk2)
 
+剑盾 火焰 审判
+[GRIM TOOLS](https://www.grimtools.com/calc/eVLRLLON)
+
 ## 缚法者 Spellbinder
 
 虚化 虚化射线

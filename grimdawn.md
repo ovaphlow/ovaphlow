@@ -92,7 +92,7 @@ HARDCORE 召唤
 [SOURCE](https://forums.crateentertainment.com/t/1-1-8-0-sentinel-of-the-three-witchblade-cr-4-40-5-50ex-naked-100sr-with-fevered-rage-2-5kda-celestials-ravager-33-sec-crate-1-min-facetank-callagadra-44-seconds/97454) 
 [GRIM TOOLS](https://www.grimtools.com/calc/YVWnyyd2)
 [ReketbyProtoss GRIM TOOLS](https://www.grimtools.com/calc/q2MGAl4Z)
-
+[YOUTUBE GRIM TOOLS](https://www.grimtools.com/calc/aZqxop9V)
 ## 咒术师 Conjurer
 
 双手 活力 原始打击

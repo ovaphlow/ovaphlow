@@ -1,5 +1,10 @@
 # 恐怖黎明
 
+## 战争领主 Warlord
+
+剑盾 混乱 正义狂热
+[GRIM TOOLS](https://www.grimtools.com/calc/YNnrddON)
+
 ## 帕拉丁 Paladin
 
 剑盾 元素 曼海尔神盾 维尔之力

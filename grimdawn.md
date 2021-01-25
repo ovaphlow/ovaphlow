@@ -82,6 +82,9 @@ HARDCORE 召唤
 
 ## 巫师之刃 Witchblade
 
+剑盾 混乱
+[GRIM TOOLS](https://www.grimtools.com/calc/d2jQGg0N)
+
 双持 混乱 [GRIM TOOLS](https://www.grimtools.com/calc/bVAmb4wV)
 
 双手 物理

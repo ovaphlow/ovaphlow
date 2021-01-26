@@ -2,6 +2,9 @@
 
 ## 战争领主 Warlord
 
+剑盾 物理 正义狂热
+[GRIM TOOLS](https://www.grimtools.com/calc/Q2z8aoaZ)
+
 剑盾 混乱 正义狂热
 [GRIM TOOLS](https://www.grimtools.com/calc/YNnrddON)
 

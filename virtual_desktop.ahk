@@ -3,22 +3,22 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-^#j::
-Send #^{Right}
-return
+; ^#j::
+; Send #^{Right}
+; return
 
-^#k::
-Send #^{Left}
-return
+; ^#k::
+; Send #^{Left}
+; return
 
-#+j::
+#+Right::
 WinGet, active_id, ID, A
 WinHide, ahk_id %active_id%
 Send #^{Right}
 WinShow, ahk_id %active_id%
 return
 
-#+k::
+#+Left::
 WinGet, active_id, ID, A
 WinHide, ahk_id %active_id%
 Send #^{Left}

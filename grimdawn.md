@@ -8,6 +8,9 @@
 
 ## 战争领主 Warlord
 
+剑盾 物理 致命旋律
+https://www.grimtools.com/calc/b28GKjGN
+
 剑盾 物理 正义狂热
 [GRIM TOOLS](https://www.grimtools.com/calc/4ZDraL82)
 
@@ -42,6 +45,9 @@
 [GRIM TOOLS](https://www.grimtools.com/calc/lNk5MbvV)
 
 ## 哨兵 Sentinel
+
+剑盾 曼海尔神盾 德里格之眼 毒酸
+[GRIM TOOLS](https://www.grimtools.com/calc/1NXQxWL2)
 
 HARDCORE 剑盾 毒酸 反击
 [SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)

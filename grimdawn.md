@@ -9,7 +9,7 @@
 ## 战争领主 Warlord
 
 剑盾 物理 致命旋律
-https://www.grimtools.com/calc/b28GKjGN
+[GRIM TOOLS](https://www.grimtools.com/calc/b28GKjGN)
 
 剑盾 物理 正义狂热
 [GRIM TOOLS](https://www.grimtools.com/calc/4ZDraL82)

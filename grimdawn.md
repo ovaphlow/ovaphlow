@@ -1,30 +1,16 @@
 # 恐怖黎明
 
-## 法师猎人
+## 压迫者 Oppressor
 
-闪电 风暴之盒 天之裂片
-[SOURCE](https://forums.crateentertainment.com/t/allagasts-masterpiece-zero-greens-facetank-mage-hunter-for-all-content-c-sr-vid-g3/90300)
-[GRIM TOOLS](https://www.grimtools.com/calc/62ayaJx2)
+剑盾 物理 反击
+[SOURCE](https://forums.crateentertainment.com/t/1-1-9-0-the-z-u-c-c-phys-retal-de-oppressor-almost-everything/49993)
+[GRIM TOOLS](https://www.grimtools.com/calc/4NO1EreV)
 
 ## 战争领主 Warlord
-
-剑盾 物理 致命旋律
-[GRIM TOOLS](https://www.grimtools.com/calc/b28GKjGN)
-
-剑盾 物理 正义狂热
-[GRIM TOOLS](https://www.grimtools.com/calc/4ZDraL82)
 
 剑盾 混乱 正义狂热
 [GRIM TOOLS](https://www.grimtools.com/calc/YNnrddON)
 
-## 帕拉丁 Paladin
-
-剑盾 元素 曼海尔神盾 维尔之力
-[SOURCE](https://forums.crateentertainment.com/t/1-1-8-0-censor-skating-and-throwing-paladin-with-a-bit-of-aura-damage-sr-80/100398)
-[GRIM TOOLS](https://www.grimtools.com/calc/gZwEqDk2)
-
-剑盾 火焰 审判
-[GRIM TOOLS](https://www.grimtools.com/calc/eVLRLLON)
 
 ## 缚法者 Spellbinder
 
@@ -52,18 +38,6 @@
 HARDCORE 剑盾 毒酸 反击
 [SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
 [GRIM TOOLS](https://www.grimtools.com/calc/qNY55arN)
-
-## 破盾者 Shieldbreaker
-
-副手 罐式炸弹
-[SOURCE](https://forums.crateentertainment.com/t/burn-baby-burn-1-1-6-2-1-1-8-1-shieldbreaker-the-fire-slayer-everything/98581)
-[GRIM TOOLS](https://www.grimtools.com/calc/m23mv1jZ)
-
-## 术士 Warlock
-
-混乱伤害 虚化射线/末日闪电
-[来源](https://forums.crateentertainment.com/t/1-1-7-2-guide-the-rookie-bloodsworn-a-chaos-warlock-beginner-guide/103489)
-[GRIM TOOLS](https://www.grimtools.com/calc/eVL1DvwZ)
 
 ## 秘术师 Cabalist
 

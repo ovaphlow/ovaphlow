@@ -63,6 +63,7 @@ HARDCORE 召唤
 [GRIM TOOLS](https://www.grimtools.com/calc/YVWnyyd2)
 [ReketbyProtoss GRIM TOOLS](https://www.grimtools.com/calc/q2MGAl4Z)
 [YOUTUBE GRIM TOOLS](https://www.grimtools.com/calc/aZqxop9V)
+[SSF](https://www.grimtools.com/calc/qNYqgmJN)
 
 ## 咒术师 Conjurer
 

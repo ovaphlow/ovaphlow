@@ -1,5 +1,10 @@
 # 恐怖黎明
 
+## 破盾者 Shieldbreaker
+
+副手 Blightlord
+[GRIM TOOLS](https://www.grimtools.com/calc/62aQv7k2)
+
 ## 压迫者 Oppressor
 
 剑盾 物理 反击
@@ -13,6 +18,9 @@
 
 
 ## 缚法者 Spellbinder
+
+虚化 双手
+[GRIM TOOLS](https://www.grimtools.com/calc/L2JYRQRN)
 
 虚化 虚化射线
 [SOURCE](https://forums.crateentertainment.com/t/1-1-8-0-albrecht-the-leech-super-tanky-aether-aar-spellbinder-3-versions-ravager-killer-very-easy-sr-80/99911)

@@ -13,9 +13,12 @@
 
 ## 战争领主 Warlord
 
+剑盾 物理 闪击 节奏打击
+[SOURCE](https://forums.crateentertainment.com/t/1-1-9-0-blitzer-physical-warlord-the-tank-who-hits-hard-and-fast/103162)
+[GRIM TOOLS](https://www.grimtools.com/calc/62aQ79k2)
+
 剑盾 混乱 正义狂热
 [GRIM TOOLS](https://www.grimtools.com/calc/YNnrddON)
-
 
 ## 缚法者 Spellbinder
 
@@ -40,12 +43,9 @@
 
 ## 哨兵 Sentinel
 
-剑盾 曼海尔神盾 德里格之眼 毒酸
-[GRIM TOOLS](https://www.grimtools.com/calc/1NXQxWL2)
-
-HARDCORE 剑盾 毒酸 反击
-[SOURCE](https://forums.crateentertainment.com/t/hc-build-collection-by-rektbyprotoss/101024)
-[GRIM TOOLS](https://www.grimtools.com/calc/qNY55arN)
+剑盾 混乱 末日闪电 正义狂热
+[SOURCE](https://forums.crateentertainment.com/t/1-1-9-0-me-e-estah-crowley-s-b-melee-chaos-sentinel/107369)
+[GRIM TOOLS](https://www.grimtools.com/calc/Q2z8g54Z)
 
 ## 秘术师 Cabalist
 
